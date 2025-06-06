@@ -1,5 +1,4 @@
 # STM8_SPL_Tim_UART
-# STM8_SPL_Tim_UART
 
 ## Giới thiệu
 
